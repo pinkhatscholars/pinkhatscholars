@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @pinkhat!
+# What has been will be again,bwhat has been done will be done again, there is nothing new under the sun. 
 
 Welcome to my digital space! I’m passionate about cybersecurity, open-source projects, and sharing knowledge with the tech community and helping people emotionally recover and prevent cyber disasters, identity theft and breaches.
 
@@ -49,3 +49,7 @@ A scholarship initiative to support aspiring cybersecurity professionals, especi
 >" Cybersecurity is more then just hacking, were providing a safe cyber space to protect users online" - Pink Hat
 >
 > "Healing the human side of cyber, one click at a time" - Outspace Cyber
+>
+>"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you." - Matthew 7:7
+
+Ecclesiastes 1:9
