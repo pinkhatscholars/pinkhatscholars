@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I’m @pinkhat!
 
-<!--
-**pinkhatscholars/pinkhatscholars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital space! I’m passionate about cybersecurity, open-source projects, and sharing knowledge with the tech community and helping people emotionally recover and prevent cyber disasters, identity theft and breaches.
 
-Here are some ideas to get you started:
+<span style="color:pink; font-size:1.5em;"><b>🌟 About Me</b></span>
+- **Cybersecurity Huntress** | Web Application Security | Security Awareness | Threat Intelligence | OSINT | Cybersecurity Researcher |PINK HAT Scholarship Founder|
+  
+- Always learning, hacking, and helping others become a secure user online.
+  
+- Advocate for ethical hacking and digital privacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Masters in Cybersecurity
+
+<span style="color:pink; font-size:1.5em;"><b>💻 Languages & Tools</b></span>
+- **Languages:** Python, Powershell
+  
+- **Tools:** Burp Suite, Kali Linux, OSINT Framework, VS Code
+
+<span style="color:pink; font-size:1.5em;"><b>📹 My YouTube Channel</b></span>
+Cybersecurity Coaching and Podcast
+- [My Cybersecurity YouTube](https://www.youtube.com/@outspacecybercoach)
+- [Hacking Sessions](https://www.youtube.com/@outspacecybercoach)
+- [Tools & Techniques Series](https://www.youtube.com/@outspacecybercoach)
+
+<span style="color:pink; font-size:1.5em;"><b>🚀 Projects</b></span>
+
+- **[CYBER AI]([https://github.com/pinkhatcyber/opencti-integration](https://chatgpt.com/g/g-678eb480cf30819186646045bd80f2c7-cyber-ai)):** Malcious and spam email/text analyzer for the community using chatgpt.
+
+
+<span style="color:pink; font-size:1.5em;"><b>🎓 Pink Hat Scholars</b></span>
+A scholarship initiative to support aspiring cybersecurity professionals, especially underrepresented groups.  
+
+**What we offer:**  
+- Mentorship & career coaching 
+ - Annual scholarship grants
+
+**Learn More or Apply:**  
+- [Pink Hat Scholars Application](https://github.com/pinkhatcyber/pinkhat-scholars)
+- [Mentorship Info](https://github.com/pinkhatcyber/mentorship)
+- [Scholarship FAQ](https://github.com/pinkhatcyber/scholarship-faq)
+
+<span style="color:pink; font-size:1.5em;"><b>🔗 Connect with PINK HAT Scholars</b></span>
+
+- Discord: pinkhatcyber#1234
+
+---
+
+
+>" Cybersecurity is more then just hacking, were providing a safe cyber space to protect users online" - Pink Hat
+>
+> "Healing the human side of cyber, one click at a time" - Outspace Cyber
