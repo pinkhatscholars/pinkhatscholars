@@ -1,15 +1,25 @@
-# What has been will be again,bwhat has been done will be done again, there is nothing new under the sun. 
+# What has been will be again,what has been done will be done again, there is nothing new under the sun. 
 
-Welcome to my digital space! I’m passionate about cybersecurity, open-source projects, and sharing knowledge with the tech community and helping people emotionally recover and prevent cyber disasters, identity theft and breaches.
+Welcome to my cyber space! where passion meets cybersecurity, spreading digital awarness, and sharing knowledge with the tech community and helping people emotionally recover and prevent cyber disasters, identity theft and breaches.
+
+        ________
+      / _______ \
+     / /  _  \ \ \
+    /_/  (_)  \_\ \
+        \_____/   \
+         \________/
+
 
 <span style="color:pink; font-size:1.5em;"><b>🌟 About Me</b></span>
-- **Cybersecurity Huntress** | Web Application Security | Security Awareness | Threat Intelligence | OSINT | Cybersecurity Researcher |PINK HAT Scholarship Founder|
+- **Cybersecurity Huntress** | Web Application Security | Security Awareness | Threat Intelligence | OSINT | Cybersecurity Researcher | PINK HAT Scholarship Founder |
   
-- Always learning, hacking, and helping others become a secure user online.
+- Always learning, hacking, and helping others become secure online.
   
 - Advocate for ethical hacking and digital privacy.
 
 - Masters in Cybersecurity
+
+- Continous learner
 
 <span style="color:pink; font-size:1.5em;"><b>💻 Languages & Tools</b></span>
 - **Languages:** Python, Powershell
