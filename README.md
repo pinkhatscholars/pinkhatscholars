@@ -28,13 +28,13 @@ Welcome to my cyber space! where passion meets cybersecurity, spreading digital 
 
 <span style="color:pink; font-size:1.5em;"><b>📹 My YouTube Channel</b></span>
 Cybersecurity Coaching and Podcast
-- [My Cybersecurity YouTube](https://www.youtube.com/@outspacecybercoach)
-- [Hacking Sessions](https://www.youtube.com/@outspacecybercoach)
-- [Tools & Techniques Series](https://www.youtube.com/@outspacecybercoach)
+- [My Cybersecurity YouTube](https://www.youtube.com/@outspacescybercoach)
+- [Hacking Sessions] - Coming Soon
+- [Tools & Techniques Series] - Coming Soon
 
 <span style="color:pink; font-size:1.5em;"><b>🚀 Projects</b></span>
 
-- **[CYBER AI]([https://github.com/pinkhatcyber/opencti-integration](https://chatgpt.com/g/g-678eb480cf30819186646045bd80f2c7-cyber-ai)):** Malcious and spam email/text analyzer for the community using chatgpt.
+- **[CYBER AI](https://chatgpt.com/g/g-678eb480cf30819186646045bd80f2c7-cyber-ai)):** Malcious and spam email/text analyzer for the community using chatgpt.
 
 
 <span style="color:pink; font-size:1.5em;"><b>🎓 Pink Hat Scholars</b></span>
