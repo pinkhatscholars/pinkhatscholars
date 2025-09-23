@@ -34,7 +34,7 @@ Cybersecurity Coaching and Podcast
 
 <span style="color:pink; font-size:1.5em;"><b>🚀 Projects</b></span>
 
-- **[CYBER AI](https://chatgpt.com/g/g-678eb480cf30819186646045bd80f2c7-cyber-ai)):** Malcious and spam email/text analyzer for the community using chatgpt.
+- **[CYBER AI](https://chatgpt.com/g/g-678eb480cf30819186646045bd80f2c7-cyber-ai):** Malcious and spam email/text analyzer for the community using chatgpt.
 
 
 <span style="color:pink; font-size:1.5em;"><b>🎓 Pink Hat Scholars</b></span>
@@ -51,7 +51,7 @@ A scholarship initiative to support aspiring cybersecurity professionals, especi
 
 <span style="color:pink; font-size:1.5em;"><b>🔗 Connect with PINK HAT Scholars</b></span>
 
-- Discord: pinkhatcyber#1234
+- Discord Server: coming soon
 
 ---
 
@@ -60,6 +60,4 @@ A scholarship initiative to support aspiring cybersecurity professionals, especi
 >
 > "Healing the human side of cyber, one click at a time" - Outspace Cyber
 >
->"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you." - Matthew 7:7
-
-Ecclesiastes 1:9
+>"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you." - Matthew 7:7, Ecclesiastes 1:9
