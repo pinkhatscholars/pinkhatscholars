@@ -46,7 +46,7 @@ A scholarship initiative to support aspiring cybersecurity professionals, especi
 
 **Learn More or Apply:**  
 - [Pink Hat Scholars Application](https://github.com/pinkhatscholars/Pink-Hat-Scholarship)
-- [Scholarship FAQ](https://github.com/pinkhatcyber/scholarship-faq)
+- [Scholarship FAQ]([https://github.com/pinkhatcyber/scholarship-faq)](https://github.com/pinkhatscholars/scholarsFAQ)
 
 <span style="color:pink; font-size:1.5em;"><b>🔗 Connect with PINK HAT Scholars</b></span>
 
